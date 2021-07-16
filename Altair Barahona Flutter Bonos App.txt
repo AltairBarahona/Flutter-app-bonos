@@ -1,0 +1,19 @@
+Aplicación Bonos 
+Framework: Flutter - Node js Express - Firebase Cloud Firestore
+
+Link del Video:
+https://www.youtube.com/watch?v=n0LoIInsYGc
+
+Repositorio GitHub:
+https://github.com/AltairBarahona/Flutter-app-bonos
+
+Links de interés:
+Backend base: https://www.youtube.com/watch?v=Ld4OGwpQ2Yk
+Documentación Flutter: https://flutter.dev/docs
+
+Contacto:
+
+altair.profesional@gmail.com
+altair.barahona@udla.edu.ec
+0992802336
+
